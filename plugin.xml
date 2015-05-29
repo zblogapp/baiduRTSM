@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin version="php">
+<id>baiduRTSM</id>
+<name>百度主动推送</name>
+<url>http://www.zsxsoft.com</url>
+<note>百度主动推送</note>
+<description>百度Sitemap实时推送工具</description>
+<path>main.php</path>
+<include>include.php</include>
+<level>1</level>
+<author>
+  <name>zsx</name>
+  <email>zsx@zsxsoft.com</email>
+  <url>http://www.zsxsoft.com</url>
+</author>
+<source>
+  <name></name>
+  <email></email>
+  <url></url>
+</source>
+<adapted>140614</adapted>
+<version>1.1</version>
+<pubdate>2015-04-13</pubdate>
+<modified>2015-05-29</modified>
+<price>0</price>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</plugin>
